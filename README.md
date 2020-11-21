@@ -1,3 +1,5 @@
+[![MasterHead](https://scontent.fixr3-1.fna.fbcdn.net/v/t1.0-9/126166521_1264039467285944_3682417302070864005_o.jpg?_nc_cat=107&ccb=2&_nc_sid=8bfeb9&_nc_ohc=MiZugQKwiuAAX_5YOSS&_nc_ht=scontent.fixr3-1.fna&oh=e0491e6e35a951d830d9d84e0e3c0a11&oe=5FE0212D)]
+
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate software developer from India, pursuing Bachelors in Computer Science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills.</h3>
 
@@ -11,7 +13,7 @@
 - 🌱 I’m currently learning **Data structure and Algorithm in C++**
 
 - 📫 How to reach me **codewithdeepak01@gmail.com**
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/solanki_deepak_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="solanki_deepak_" height="30" width="40" /></a>
